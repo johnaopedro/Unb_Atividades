@@ -36,6 +36,14 @@ Repositório: [Path](./Estrutura_de_Dados_1)
 
 Repositório: [Path](./Estrutura_de_Dados_2)
 
+### Fundamentos de Sistemas Operacionais
+
+Repositório: [Path](./Fundamentos_de_Sistemas_Operacionais)
+
+### Fundamentos Lógicos da IA
+
+Repositório: [Path](./Fundamentos_Logicos_da_IA)
+
 ## Contribuições
 
 ### Métodos de Desenvolvimento de Software
