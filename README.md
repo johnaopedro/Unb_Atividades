@@ -26,15 +26,33 @@ A estrutura do repositório é organizada por **disciplinas** e **tipos de ativi
 
 ### Orientação a Objetos
 
-Repositório: [Path](.\Unb_Atividades\Orientacao_a_Objetos)
+Repositório: [Path](./Orientacao_a_Objetos)
 
 ### Estrutura de Dados 1
 
-Repositório: [Path](.\Unb_Atividades\Estrutura_de_Dados_1)
+Repositório: [Path](./Estrutura_de_Dados_1)
 
 ### Estrutura de Dados 2
 
-Repositório: [Path](.\Unb_Atividades\Estrutura_de_Dados_2)
+Repositório: [Path](./Estrutura_de_Dados_2)
+
+## Contribuições
+
+### Métodos de Desenvolvimento de Software
+
+Repositório: [Path](https://github.com/unb-mds/Squad13)
+
+### Projeto de Algoritmos
+
+Repositório: [Grafos 1](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code)
+
+Repositório: [Grafos 2](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code)
+
+Repositório: [Greedy](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_Leet_code)
+
+Repositório: [Dividir e Conquistar](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Leet_Code)
+
+Repositório: [Programação Dinâmica](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Leet_code)
 
 ## Licença
 
